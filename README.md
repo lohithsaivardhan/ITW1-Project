@@ -22,6 +22,15 @@ Member-4 : V Sathish [ BT23ECE123 ]
 ![M3](https://github.com/user-attachments/assets/1e00a8ef-cadc-41a6-8a51-81c8ccc26d8f)
 ![M4](https://github.com/user-attachments/assets/065cc88c-75d4-4840-ad6e-40a37a19462d)
 
+## Pics-Studio Project:
+![P1](https://github.com/user-attachments/assets/47dccb77-80f3-4289-b1ca-d219e6eab562)
+![P2](https://github.com/user-attachments/assets/fd54974a-0cb7-4209-b0af-f4f04cfc2c8d)
+![P3](https://github.com/user-attachments/assets/c3144956-1394-4909-9cd6-eaa0e6f5c41e)
+![P4](https://github.com/user-attachments/assets/8509afcd-4385-454d-967b-de23714519db)
+
+
+
+
 
 
 
