@@ -1,0 +1,20 @@
+Name : Nenavath Dhanush Rathod
+BT-ID : BT23ECE120
+
+********** These are the things that I h've got to know after working for this IT-W-1 Project  *********
+
+1. Repositories helps to store code.
+2. Branches are useful when working on separate tasks.
+3. Pull Requests are raised inorder to merge the code after review.
+
+The git commands that I h've used in contributing to this project :
+1. git init
+2. git status 
+3. git add
+4. git commit -m "message"
+5. git push -u origin "branchName"
+6. git clone (To clone from existing repository)
+
+
+My views on using Github as a collaborative platform : 
+----- I feel Github is a best platform to do collaborative work as it contains many useful features which makes developer's life easier to manage and track the versions of a program.
