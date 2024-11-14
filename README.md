@@ -8,7 +8,7 @@ Member-3 : B Rithvik [ BT23ECE101 ]
 Member-4 : V Sathish [ BT23ECE123 ]
 
 
->These are the Screen Shots of Above Projects
+## These are the Screen Shots of Above Projects
 
 # Solar Project:
 ![S1](https://github.com/user-attachments/assets/40743ee3-17a3-405d-be37-4398e886ea5f)
