@@ -9,7 +9,7 @@ Member-4 : V Sathish [ BT23ECE123 ]
 
 
 # These are the Screen-Shots Of Above Projects :
-## Pics-Studio Project:
+## Pics Studio Project:
 ![P1](https://github.com/user-attachments/assets/47dccb77-80f3-4289-b1ca-d219e6eab562)
 ![P2](https://github.com/user-attachments/assets/fd54974a-0cb7-4209-b0af-f4f04cfc2c8d)
 ![P3](https://github.com/user-attachments/assets/c3144956-1394-4909-9cd6-eaa0e6f5c41e)
