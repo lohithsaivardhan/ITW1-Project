@@ -7,6 +7,8 @@ Member-3 : B Rithvik [ BT23ECE101 ]
 
 Member-4 : V Sathish [ BT23ECE123 ]
 
+Member-5 : Hari Om Shaw [ BT22ECE018 ] 
+
 
 # These are the Screen-Shots Of Above Projects :
 ## Pics Studio Project:
